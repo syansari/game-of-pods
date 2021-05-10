@@ -1,2 +1,2 @@
 
-## Solution to Game Of Pods challenges from KodeKloud.com
+## Solution to Game Of Pods challenges at https://kodekloud.com/p/game-of-pods
