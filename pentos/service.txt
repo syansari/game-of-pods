@@ -1,0 +1,1 @@
+k expose pod gop-fileserver --name=gop-fs-service --port=8080 --target-port=8080 --type=NodePort
